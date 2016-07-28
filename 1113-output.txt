@@ -1,0 +1,13 @@
+Case 1:
+http:://inquisitive.tk/
+http://www.lightoj.com/
+http:://inquisitive.tk/
+http:://facebook.com/
+http:://inquisitive.tk/
+http://www.lightoj.com/
+Ignored
+Ignored
+http://ruet.ac.bd/
+Ignored
+http://www.lightoj.com/
+Ignored
